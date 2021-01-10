@@ -69,4 +69,4 @@ Me Myself and I
 
 ## License
 
-Bus Ticket Reserbation System is licensed under the [MIT license](LICENSE.md).
+Bus Ticket Reserbation System is licensed under the [MIT license](LICENCE.md).
